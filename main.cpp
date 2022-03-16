@@ -12,5 +12,6 @@ int main() {
     cin >> op;
     cout << "Please put in another number: ";
     cin >> b;
+    cout << a << " " << op << " " << b << " =";
     return 0;
 }
