@@ -4,10 +4,12 @@
 using namespace std;
 
 double add(double num1, double num2) {
+    // function to add num2 to num1
     return num1 + num2;
 }
 
 double subs(double num1, double num2) {
+    // function to substract num2 from num1
     return num1 - num2;
 }
 
