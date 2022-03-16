@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator able to add, substract, multiply, and divide
+Simple Calculator able to add, substract, multiply, divide, and power.
